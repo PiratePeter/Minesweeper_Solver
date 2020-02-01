@@ -1,2 +1,3 @@
-# Minesweeper_Solver
-Solves Minesweeper
+# Minesweeper Solver
+Solves Minesweeper on http://minesweeperonline.com/
+
